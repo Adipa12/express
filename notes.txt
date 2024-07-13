@@ -1,0 +1,8 @@
+My First target is to perform a crud operation in to do list using express server....
+1>First i run command for starting our project and build the package.json file
+    npm init --y
+2> We install express now..
+    npm install express
+3> install nodeman for run my server frequently..
+    npm install nodemon or npm install -g nodemon
+

@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "add one file per hr",
+      "status": false
+    },
+    {
+      "id": 3,
+      "task": "complete your assignment in 2 hrs only",
+      "status": false
+    },
+    {
+      "id": 5,
+      "task": "do another assignments in quick time",
+      "status": false
+    }
+  ]
+}
